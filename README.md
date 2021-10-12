@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Enzo Lopez
 - 🌱 I’m currently learnng programacion
-- 💞️ I’m looking to collaborate on resolver problemas con codigos y compartir otros terminados
+- 💞️ Estoy interesado en aprender y compartir mis conocimientos con la gente
 
 
 <!---
